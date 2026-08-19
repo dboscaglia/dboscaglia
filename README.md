@@ -19,8 +19,6 @@
 
 🎯 Perfil híbrido que combina conocimiento profundo del negocio financiero con formación en metodologías ágiles, análisis de datos (SQL, Power BI, Python) +  desarrollo .NET, Web. Diplomatura de Posgrado Universitario en Innovación y Desarrollo de Aplicaciones basadas en Blockchain, Universidad Nacional de Luján (En formación) | Analista de Sistemas | Mercado de Capitales UTN.BA |  Compliance & Riesgo Operativo.
 
-Hybrid profile combining in-depth knowledge of the financial business with training in agile methodologies, data analysis (SQL, Power BI, Python) + .NET and web development. Postgraduate Diploma in Innovation and Development of Blockchain-based Applications, National University of Luján (In progress) | Systems Analyst | Capital Markets UTN.BA | Compliance & Operational Risk.
-
 <!-- 🚀 **Roles objetivo:**
 - Scrum Master / Product Owner
 - Analista Funcional Ágil
